@@ -34,7 +34,7 @@
 <muleVersion>4.4.0</muleVersion>
 <username>nareshyr2</username>
 <password>Naresh123!</password>
-<applicationName>single</applicationName>
+<applicationName>CICDPipeline</applicationName>
 <environment>Sandbox</environment>   
 <workers>1</workers>
 <workerType>MICRO</workerType>
