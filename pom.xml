@@ -28,8 +28,8 @@
 				<configuration>
 				<cloudHubDeployment>
 			      <muleVersion>4.4.0</muleVersion>
-			      <username>nareshyr2</username>
-			      <password>Naresh123!</password>
+			      <username>${anypoint.username}</username>
+			      <password>${anypoint.password}</password>
 			      <applicationName>CICD-Maven-Ap14</applicationName>
 			      <environment>Sandbox</environment>   		 
 			      <workers>1</workers>
